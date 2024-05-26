@@ -1,4 +1,7 @@
 # Plugin Idea Retriever
 
-![image](https://github.com/Closeplanet2/PluginIdeaRetriever/assets/68482902/17b6b8ee-0dfe-4a2d-be17-dd513a7e8530)
+Puthon GUi to random egenrate plugin ideas from the bukkit request website!
+
+# Devlog
+[![Watch the video](https://img.youtube.com/vi/YcnrgZk8Pa4/maxresdefault.jpg)](https://www.youtube.com/watch?v=YcnrgZk8Pa4)
 
